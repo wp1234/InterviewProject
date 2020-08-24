@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TVMessage" representedClassName="TVMessage" syncable="YES" codeGenerationType="class">
+        <attribute name="authorizations_url" optional="YES" attributeType="String"/>
+        <attribute name="code_search_url" optional="YES" attributeType="String"/>
+        <attribute name="commit_search_url" optional="YES" attributeType="String"/>
+        <attribute name="current_user_authorizations_html_url" optional="YES" attributeType="String"/>
+        <attribute name="current_user_repositories_url" optional="YES" attributeType="String"/>
+        <attribute name="current_user_url" optional="YES" attributeType="String"/>
+        <attribute name="date" optional="YES" attributeType="String"/>
+        <attribute name="emails_url" optional="YES" attributeType="String"/>
+        <attribute name="emojis_url" optional="YES" attributeType="String"/>
+        <attribute name="events_url" optional="YES" attributeType="String"/>
+        <attribute name="feeds_url" optional="YES" attributeType="String"/>
+        <attribute name="followers_url" optional="YES" attributeType="String"/>
+        <attribute name="following_url" optional="YES" attributeType="String"/>
+        <attribute name="gists_url" optional="YES" attributeType="String"/>
+        <attribute name="hub_url" optional="YES" attributeType="String"/>
+        <attribute name="issue_search_url" optional="YES" attributeType="String"/>
+        <attribute name="issues_url" optional="YES" attributeType="String"/>
+        <attribute name="keys_url" optional="YES" attributeType="String"/>
+        <attribute name="label_search_url" optional="YES" attributeType="String"/>
+        <attribute name="notifications_url" optional="YES" attributeType="String"/>
+        <attribute name="organization_repositories_url" optional="YES" attributeType="String"/>
+        <attribute name="organization_teams_url" optional="YES" attributeType="String"/>
+        <attribute name="organization_url" optional="YES" attributeType="String"/>
+        <attribute name="public_gists_url" optional="YES" attributeType="String"/>
+        <attribute name="rate_limit_url" optional="YES" attributeType="String"/>
+        <attribute name="repository_search_url" optional="YES" attributeType="String"/>
+        <attribute name="repository_url" optional="YES" attributeType="String"/>
+        <attribute name="starred_gists_url" optional="YES" attributeType="String"/>
+        <attribute name="starred_url" optional="YES" attributeType="String"/>
+        <attribute name="user_organizations_url" optional="YES" attributeType="String"/>
+        <attribute name="user_repositories_url" optional="YES" attributeType="String"/>
+        <attribute name="user_search_url" optional="YES" attributeType="String"/>
+        <attribute name="user_url" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="TVMessage" positionX="-63" positionY="-18" width="128" height="538"/>
+    </elements>
+</model>

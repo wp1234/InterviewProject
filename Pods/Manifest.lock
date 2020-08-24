@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.2.2)
+  - MJRefresh (3.5.0)
+  - ReactiveCocoa (11.0.0):
+    - ReactiveSwift (~> 6.2)
+  - ReactiveSwift (6.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MJRefresh
+  - ReactiveCocoa
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MJRefresh
+    - ReactiveCocoa
+    - ReactiveSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  ReactiveCocoa: 189fcea9c5af7e394dd8a4cfc1c6f77af9ff3598
+  ReactiveSwift: 7937f26ec18d555e2a99352bd0a8b2817d1f042d
+
+PODFILE CHECKSUM: d96b5c48a970e888c035f5b6781f1442719715c0
+
+COCOAPODS: 1.9.3
